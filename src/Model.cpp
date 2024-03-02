@@ -3,6 +3,7 @@
 #include <queue>
 #include <algorithm>
 #include "Model.h"
+#include <float.h>
 #include "tbb/parallel_for.h"
 #include "tbb/blocked_range.h"
 #include "tbb/global_control.h"

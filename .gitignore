@@ -1,0 +1,27 @@
+# Build
+*build*/*
+build/
+rbuild/
+extern/
+extern/*
+.idea/*
+.vscode/
+/data
+.DS_Store
+
+
+# External
+extern/.cache
+extern/eigen
+extern/meshorient
+extern/libigl
+extern/spdlog
+extern/cli11
+
+# Test
+file/
+/file/*
+*.vtk
+*.ply
+*.obj
+*.stl
